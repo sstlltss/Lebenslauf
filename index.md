@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Allen
 
 ## About Me
 
@@ -8,6 +9,20 @@ layout: default
 - Pronoun: *they/them* or *she/her*
 
 I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently looking for an intership opportunity in the field of **artificial intelligence** as a part of my graduate studies.
+
+### Skills
+
+- **Programming languages:** Python, C/C++, C#, HTML/CSS, Javascript, Matlab, Pascal
+  
+- **Game Engines:** Unity
+
+- **Design Tools:** Goldwave, Photoshop, After Effects, Offices, FFmpeg
+
+### Multilingual
+
+* Chinese(Mandarin) - native
+* English - fluent
+* German - fluent (with C1 certificate)
 
 ### Education
 
@@ -79,3 +94,18 @@ I am a passionate programmer with a strong interest in game development. Current
   - Leibniz University Hannover
   - 10.2024 - Present (until 02.2025)
   - To answer the questions and solve problems for students in programming practice.
+  
+### Interests
+
+- **Programming**
+  - Major language: Python
+- **Video games**
+  - MMORPG (FFXIV)
+  - Indie games on steam & itch.io
+  - Waiting for new Nintendo Switch since 2022
+- **Cooking**
+  - Without baking
+- **Musicals & Music**
+  - Wie wird man seinen Schatten los?
+- **Writing**
+  - Fanfictions
