@@ -3,25 +3,25 @@ layout: default
 ---
 # Allen
 
-## :sparkles:About Me
+## About Me
 - Preferred First Name: Allen
 - Pronoun: *they/them* or *she/her*
 
 I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently looking for an intership opportunity in the field of **artificial intelligence** as a part of my graduate studies.
 
-### :rocket:Skills
+### Skills
 
 - **Programming languages:** Python, C/C++, C#, Matlab, HTML/CSS(basics), Javascript(basics), Pascal(basics)
 - **Game Engines:** Unity
 - **Design Tools:** Goldwave, Photoshop, After Effects, Offices, FFmpeg...
 
-### :ear:Multilingual
+### Multilingual
 
 * Chinese(Mandarin) - native
 * English - fluent
 * German - fluent (with C1 certificate)
 
-### :school:Education
+### Education
 
 - **Master's degree** in *Electrical and information technology*
   - Leibniz University Hannover
@@ -33,7 +33,7 @@ I am a passionate programmer with a strong interest in game development. Current
   - Beijing, China
   - 2016 - 2020
 
-### :pencil:Projects during Education
+### Projects during Education
 
 - **Bird Tracking**
   - A reinforcement learning environment aims to let the agent find the best positions to place the rest zone for mirgrating birds.
@@ -56,7 +56,7 @@ I am a passionate programmer with a strong interest in game development. Current
   - Text language: Chinese(Mandarin), English
   - For more details seen [itch.io](https://ashlynxgame.itch.io/shipwreck)
   
-### :game_die:Other Projects
+### Other Projects
 
 - **Develop at Ubisoft - Programming**
   - Ubisoft Blue Byte Berlin
@@ -78,7 +78,7 @@ I am a passionate programmer with a strong interest in game development. Current
   - Tutorial language: Chinese(Mandarin)
   - For more details seen [project in github](https://github.com/sstlltss/little-img-downloader)
 
-### :triangular_flag_on_post:Work Experience
+### Work Experience
 
 - **VR Store Associate**
   - VRcade, Stuttgart, Baden-Württemberg, Germany
@@ -91,7 +91,7 @@ I am a passionate programmer with a strong interest in game development. Current
   - 10.2024 - Present (until 02.2025)
   - To answer the questions and solve problems for students in programming practice.
   
-### :feet:Interests
+### Interests
 
 - **Programming**
   - Major language: Python
@@ -104,7 +104,7 @@ I am a passionate programmer with a strong interest in game development. Current
   - *"Wie wird man seinen Schatten los?"*
 - **Writing:** fanfictions
   
-### :telephone:Contacts
+### Contacts
 
 - [Linkedin](https://www.linkedin.com/in/yuwei-wu-114797338/)
 - Email: achsstlltss@gmail.com
