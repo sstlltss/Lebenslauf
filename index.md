@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 - Preferred Name: Allen
 - Pronoun: They/them or she/her
