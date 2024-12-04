@@ -4,19 +4,15 @@ layout: default
 # Allen
 
 ## About Me
-
-- Preferred Name: Allen
-- Pronoun: *they/them* or *she/her*
+*Preferred Name: Allen; Pronoun: they/them or she/her *
 
 I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently looking for an intership opportunity in the field of **artificial intelligence** as a part of my graduate studies.
 
 ### Skills
 
-- **Programming languages:** Python, C/C++, C#, HTML/CSS, Javascript, Matlab, Pascal
-  
+- **Programming languages:** Python, C/C++, C#, Matlab, HTML/CSS(basics), Javascript(basics), Pascal(basics)
 - **Game Engines:** Unity
-
-- **Design Tools:** Goldwave, Photoshop, After Effects, Offices, FFmpeg
+- **Design Tools:** Goldwave, Photoshop, After Effects, Offices, FFmpeg...
 
 ### Multilingual
 
@@ -31,7 +27,6 @@ I am a passionate programmer with a strong interest in game development. Current
   - Hannvoer, Lower Saxony, Germany
   - 2023 - Present
   - Specialization: Machine Learning
-
 - **Bachelor of Science** in *Measurement and Control technology and Sensors*
   - Beijing Jiaotong University
   - Beijing, China
@@ -103,9 +98,12 @@ I am a passionate programmer with a strong interest in game development. Current
   - MMORPG (FFXIV)
   - Indie games on steam & itch.io
   - Waiting for new Nintendo Switch since 2022
-- **Cooking**
-  - Without baking
+- **Cooking:** without baking
 - **Musicals & Music**
-  - Wie wird man seinen Schatten los?
-- **Writing**
-  - Fanfictions
+  - *"Wie wird man seinen Schatten los?"*
+- **Writing:** fanfictions
+  
+### Contacts
+
+- [Linkedin](https://www.linkedin.com/in/yuwei-wu-114797338/)
+- Email: achsstlltss@gmail.com
