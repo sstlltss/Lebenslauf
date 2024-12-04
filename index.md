@@ -5,21 +5,19 @@ layout: default
 ## About Me
 
 - Preferred Name: Allen
-- Pronoun: They/them or she/her
+- Pronoun: *they/them* or *she/her*
 
 I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently looking for an intership opportunity in the field of **artificial intelligence** as a part of my graduate studies.
 
 ### Education
 
-- **Elementary education in China**
-
-- **Master's degree** in Electrical and information technology
+- **Master's degree** in *Electrical and information technology*
   - Leibniz University Hannover
   - Hannvoer, Lower Saxony, Germany
   - 2023 - Present
   - Specialization: Machine Learning
 
-- **Bachelor of Science** in Measurement and Control technology and Sensors
+- **Bachelor of Science** in *Measurement and Control technology and Sensors*
   - Beijing Jiaotong University
   - Beijing, China
   - 2016 - 2020
@@ -28,7 +26,7 @@ I am a passionate programmer with a strong interest in game development. Current
 
 - **Bird Tracking**
   - A reinforcement learning environment aims to let the agent find the best positions to place the rest zone for mirgrating birds.
-  - The final assignment of lecture *Reinforcement Learning*
+  - The final assignment of the lecture *Reinforcement Learning*
 - **Audio Communication and Acoustics**
   - A series of experiments on audio and acoustics.
 - **Pacman**
@@ -36,16 +34,16 @@ I am a passionate programmer with a strong interest in game development. Current
   - A series of bonus assignments of lecture *Artificial Intelligence I & II*
 - **Mushroom**
   - A game which is developed by Unity 2D. Player will control a mushroom to collect the dropping candies. In addition to the traditional visual mode, a stereoscopic mode without graphic is also developed.
-  - An assignment of lecture *Introduction to Game Development*
+  - An assignment of the lecture *Introduction to Game Development*
 - **GCPC 2024**
-  - [Link to GCPC](https://gcpc.nwerc.eu/)
   - German Collegiate Programming Contest 2024
   - Ranked 54th out of 89 teams, 1st out of 3 teams in my univsersity
+  - For more details seen [gcpc](https://gcpc.nwerc.eu/)
 - **Shipwreck**
-  - [Link to Shipwreck](https://ashlynxgame.itch.io/shipwreck)
-  - A turn-based game developed by Unity 2D. As a smart octopus, player will use their skills to beat the shipwreck victims and let them join you.
+  - A turn-based game developed by Unity 2D. As a smart octopus, you will use you skills to beat the shipwreck victims and let them join you.
   - The assigment of mine in LUH Game Jam 2024
   - Text language: Chinese(Mandarin), English
+  - For more details seen [itch.io](https://ashlynxgame.itch.io/shipwreck)
   
 ### Other Projects
 
@@ -53,21 +51,21 @@ I am a passionate programmer with a strong interest in game development. Current
   - Ubisoft Blue Byte Berlin
   - 10.2024 - Present (until March 2025)
   - *"The program provides mentorship opportunities for women and non-binary individuals (students or fresh graduates with less than 2 years of experience), interested in video games to develop their skill set in Game Design and Programming."*
-  - For more details seen [here](https://www.ubisoft.com/en-us/company/careers/interns-graduates/develop-at-ubisoft)
+  - For more details seen [ubisoft.com](https://www.ubisoft.com/en-us/company/careers/interns-graduates/develop-at-ubisoft)
 - **Triple Triad Offline**
-  - [Link to Triple Triad Offline](https://allen-sstl.itch.io/triple-triad)
   - A fan-game from FinalFantasy XIV. A turn-based card game. Developed by Unity 2D.
   - Tutorial language: Chinese(Mandarin), English
+  - For more details seen [itch.io](https://allen-sstl.itch.io/triple-triad)
 - **Tybalt the Ghost**
-  - [Link to Tybalt the Ghost](https://github.com/sstlltss/Tybalt_the_Ghost)
   - A text fan-game from the hungarian musical *Rómeó és Júlia (Romeo and Juliet)*
   - Developing language: Python
   - Text language: Chinese(Mandarin)
+  - For more details seen [project in github](https://github.com/sstlltss/Tybalt_the_Ghost)
 - **Little Img Downloader**
-  - [Link to Little img downloader](https://github.com/sstlltss/little-img-downloader)
   - A mini-tool to download all *.png* and *.jpg* files in a website.
   - Developing language: Python
   - Tutorial language: Chinese(Mandarin)
+  - For more details seen [project in github](https://github.com/sstlltss/little-img-downloader)
 
 ### Work Experience
 
@@ -76,7 +74,8 @@ I am a passionate programmer with a strong interest in game development. Current
   - 10.2022 - 02.2023
   - A VR experience store
   - Assisted customers in experiencing various VR games, ensuring smooth operation of VR devices and software. Provided technical support for VR equipment, diagnosing and resolving basic issues to enhance user satisfaction.
-- **Student Assistant** for lecture "Grundzüge zur Informatik und Programmierung (Basics of Computer Science and Programming)"
+- **Student Assistant** 
+  - for lecture "Grundzüge zur Informatik und Programmierung (Basics of Computer Science and Programming)"
   - Leibniz University Hannover
   - 10.2024 - Present (until 02.2025)
-  - To answer the questions and solve problems in programming practice for students.
+  - To answer the questions and solve problems for students in programming practice.
