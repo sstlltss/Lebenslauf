@@ -35,11 +35,32 @@ I am a passionate programmer with a strong interest in game development. Current
 
 ### Projects during Education
 
+- **Labor: Maschinelles Lernen für Künstliche Intelligenz in Spielen**
+  - English: "Lab: Machine Learning for Artificial Intelligence in Games"
+  - 10.2024 - Present(until 02.2025)
+  - Institute of Information Processing, Leibniz University Hannover
+  - A lab experiment of implement game theory, AI game policy, neutral network and reinforcement learning in game. The whole lab experiment consists of the following parts:
+    - Introduction
+	- Q-Learning
+	- Neural network and deep Q-Learning
+	- Minimax and MCTS
+	- Parameter optimization and game theory
+	- Battle snake (final assignment)
+	  - for more details about [battle snake](https://play.battlesnake.com/)
 - **Bird Tracking**
   - A reinforcement learning environment aims to let the agent find the best positions to place the rest zone for mirgrating birds.
   - The final assignment of the lecture *Reinforcement Learning*
 - **Audio Communication and Acoustics**
-  - A series of experiments on audio and acoustics.
+  - A series of experiments on audio and acoustics. Consisting of the following parts:
+    - Measurement and application of the headphone transfer function
+	- Dynamic manipulation of audio signals
+	- Directional characteristics
+	- Helmholtz resonator
+	- Mearsurement of absorption coefficient and impedance
+	- Binaural measurement & playback technology
+	- Room acoustics
+	- Psychoacoustic
+	- Loudspeaker
 - **Pacman**
   - A project from UC Berkeley.
   - A series of bonus assignments of lecture *Artificial Intelligence I & II*
@@ -99,6 +120,8 @@ I am a passionate programmer with a strong interest in game development. Current
   - MMORPG (FFXIV)
   - Indie games on steam & itch.io
   - Waiting for new Nintendo Switch since 2022
+- **Game development**
+  - Seen [my itch page](https://allen-sstl.itch.io/)
 - **Cooking:** without baking
 - **Musicals & Music**
   - *"Wie wird man seinen Schatten los?"*
