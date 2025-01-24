@@ -11,15 +11,16 @@ I am a passionate programmer with a strong interest in game development. Current
 
 ### Skills
 
-- **Programming languages:** Python, C/C++, C#, Matlab, HTML/CSS(basics), Javascript(basics), Pascal(basics)
-- **Game Engines:** Unity
-- **Design Tools:** Goldwave, Photoshop, After Effects, Offices, FFmpeg...
+- **Programming languages:** Python, C/C++, C#, Matlab, HTML/CSS, Java, Javascript, Pascal
+- **Software:** Machine Learning and AI, Computer Vision, Signal Processing, Graph-based Machine Learning
+- **Hardware:** Sensors, Control Technology
+- **Game Engine:** Unity
 
 ### Multilingual
 
 * Chinese(Mandarin) - native
 * English - fluent
-* German - fluent (with C1 certificate)
+* German - fluent
 
 ### Education
 
