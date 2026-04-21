@@ -7,14 +7,14 @@ layout: default
 - Preferred First Name: Allen
 - Pronoun: *they/them* or *she/her*
 
-I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently looking for an intership opportunity in the field of **artificial intelligence** as a part of my graduate studies.
+I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently working on my master thesis with thema "Tumor Deconvolution with Methylation Data" and looking for a full-time job in area **AI** or **Game Developing** after graduate.
 
 ### Skills
 
 - **Programming languages:** Python, C/C++, C#, Matlab, HTML/CSS, Java, Javascript, Pascal
 - **Software:** Machine Learning and AI, Computer Vision, Signal Processing, Graph-based Machine Learning
 - **Hardware:** Sensors, Control Technology
-- **Game Engine:** Unity
+- **Game Engine:** Unity, Gobots
 
 ### Multilingual
 
@@ -120,12 +120,12 @@ I am a passionate programmer with a strong interest in game development. Current
 - **Video games**
   - MMORPG (FFXIV)
   - Indie games on steam & itch.io
-  - Waiting for new Nintendo Switch since 2022
+  - Sadly due to motion sickness I cannot play most of 3D games and some 2D games(so weird!).
 - **Game development**
   - Seen [my itch page](https://allen-sstl.itch.io/)
 - **Cooking:** without baking
 - **Musicals & Music**
-  - *"Wie wird man seinen Schatten los?"*
+  - My favorite lyric from <Mozart! das Musical>: *"Wie wird man seinen Schatten los?"*
 - **Writing:** fanfictions
   
 ### Contacts
