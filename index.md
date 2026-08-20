@@ -38,30 +38,15 @@ I am a passionate programmer with a strong interest in game development. Current
 
 - **Labor: Maschinelles Lernen für Künstliche Intelligenz in Spielen**
   - English: "Lab: Machine Learning for Artificial Intelligence in Games"
-  - 10.2024 - Present(until 02.2025)
+  - 10.2024 - 02.2025
   - Institute of Information Processing, Leibniz University Hannover
-  - A lab experiment of implement game theory, AI game policy, neutral network and reinforcement learning in game. The whole lab experiment consists of the following parts:
-    - Introduction
-	- Q-Learning
-	- Neural network and deep Q-Learning
-	- Minimax and MCTS
-	- Parameter optimization and game theory
-	- Battle snake (final assignment)
-	  - for more details about [battle snake](https://play.battlesnake.com/)
+  - A lab experiment of implement game theory, AI game policy, neutral network and reinforcement learning in game.
+  - The final assignment is a battle snake agent: [what is battle snake?](https://play.battlesnake.com/)
 - **Bird Tracking**
   - A reinforcement learning environment aims to let the agent find the best positions to place the rest zone for mirgrating birds.
   - The final assignment of the lecture *Reinforcement Learning*
 - **Audio Communication and Acoustics**
-  - A series of experiments on audio and acoustics. Consisting of the following parts:
-    - Measurement and application of the headphone transfer function
-	- Dynamic manipulation of audio signals
-	- Directional characteristics
-	- Helmholtz resonator
-	- Mearsurement of absorption coefficient and impedance
-	- Binaural measurement & playback technology
-	- Room acoustics
-	- Psychoacoustic
-	- Loudspeaker
+  - A series of experiments on audio and acoustics.
 - **Pacman**
   - A project from UC Berkeley.
   - A series of bonus assignments of lecture *Artificial Intelligence I & II*
@@ -70,13 +55,8 @@ I am a passionate programmer with a strong interest in game development. Current
   - An assignment of the lecture *Introduction to Game Development*
 - **GCPC 2024**
   - German Collegiate Programming Contest 2024
-  - Ranked 54th out of 89 teams, 1st out of 3 teams in my univsersity
+  - Ranked 54th out of 89 teams, 1st out of 3 teams in the univsersity
   - For more details seen [gcpc](https://gcpc.nwerc.eu/)
-- **Shipwreck**
-  - A turn-based game developed by Unity 2D. As a smart octopus, you will use you skills to beat the shipwreck victims and let them join you
-  - The assigment of mine in LUH Game Jam 2024
-  - Text language: Chinese(Mandarin), English
-  - For more details seen [itch.io/shipwreck](https://ashlynxgame.itch.io/shipwreck)
 
 ### Other Projects
 
@@ -90,6 +70,11 @@ I am a passionate programmer with a strong interest in game development. Current
   - A fan-game from FinalFantasy XIV. A turn-based card game. Developed by Unity 2D.
   - Tutorial language: Chinese(Mandarin), English
   - For more details seen [itch.io](https://allen-sstl.itch.io/triple-triad)
+- **Shipwreck**
+  - A turn-based game developed by Unity 2D. As a smart octopus, you will use you skills to beat the shipwreck victims and let them join you
+  - The assigment of mine in LUH Game Jam 2024
+  - Text language: Chinese(Mandarin), English
+  - For more details seen [itch.io/shipwreck](https://ashlynxgame.itch.io/shipwreck)
 - **Tybalt the Ghost**
   - A text fan-game from the hungarian musical *Rómeó és Júlia (Romeo and Juliet)*
   - Developing language: Python
