@@ -7,12 +7,12 @@ layout: default
 - Preferred First Name: Allen
 - Pronoun: *they/them* or *she/her*
 
-I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently working on my master thesis with thema "Tumor Deconvolution with Methylation Data" and looking for a full-time job in area **AI** or **Game Developing** after graduate.
+I am a passionate programmer with a strong interest in game development. Currently pursuing **Machine Learning** at *Leibniz University Hannover*. I am currently working on my master thesis with thema "Tumor Deconvolution with Methylation Data" and looking for a PhD position or full-time job in area **AI** or **Game Developing** after graduate.
 
 ### Skills
 
 - **Programming languages:** Python, C/C++, C#, Matlab, HTML/CSS, Java, Javascript, Pascal
-- **Software:** Machine Learning and AI, Computer Vision, Signal Processing, Graph-based Machine Learning
+- **Software:** Machine Learning, Computer Vision, Signal Processing, Graph-based Machine Learning
 - **Hardware:** Sensors, Control Technology
 - **Game Engine:** Unity, Gobots
 
@@ -73,18 +73,19 @@ I am a passionate programmer with a strong interest in game development. Current
   - Ranked 54th out of 89 teams, 1st out of 3 teams in my univsersity
   - For more details seen [gcpc](https://gcpc.nwerc.eu/)
 - **Shipwreck**
-  - A turn-based game developed by Unity 2D. As a smart octopus, you will use you skills to beat the shipwreck victims and let them join you.
+  - A turn-based game developed by Unity 2D. As a smart octopus, you will use you skills to beat the shipwreck victims and let them join you
   - The assigment of mine in LUH Game Jam 2024
   - Text language: Chinese(Mandarin), English
-  - For more details seen [itch.io](https://ashlynxgame.itch.io/shipwreck)
-  
+  - For more details seen [itch.io/shipwreck](https://ashlynxgame.itch.io/shipwreck)
+
 ### Other Projects
 
-- **Develop at Ubisoft - Programming**
+- **Develop at Ubisoft - Party Travel**
   - Ubisoft Blue Byte Berlin
-  - 10.2024 - Present (until March 2025)
+  - 10.2024 - 03.2025
   - *"The program provides mentorship opportunities for women and non-binary individuals (students or fresh graduates with less than 2 years of experience), interested in video games to develop their skill set in Game Design and Programming."*
-  - For more details seen [ubisoft.com](https://www.ubisoft.com/en-us/company/careers/interns-graduates/develop-at-ubisoft)
+  - The final game is published on [itch.io/party_travel](https://allen-sstl.itch.io/partytravel)
+  - For more details about this project seen [ubisoft.com](https://www.ubisoft.com/en-us/company/careers/interns-graduates/develop-at-ubisoft)
 - **Triple Triad Offline**
   - A fan-game from FinalFantasy XIV. A turn-based card game. Developed by Unity 2D.
   - Tutorial language: Chinese(Mandarin), English
@@ -110,8 +111,12 @@ I am a passionate programmer with a strong interest in game development. Current
 - **Student Assistant** 
   - for lecture "Grundzüge zur Informatik und Programmierung (Basics of Computer Science and Programming)"
   - Leibniz University Hannover
-  - 10.2024 - Present (until 02.2025)
+  - 10.2024 - 02.2025
   - To answer the questions and solve problems for students in programming practice.
+- **Mandatory Intership**
+  - Volkswagen AG. Wolfsburg
+  - 04.2025 - 08.2025
+  - Developed a serious game using Unity Engine, in which players sway their bodies in response to on-screen prompts while in a moving vehicle to alleviate motion sickness symptoms
   
 ### Interests
 
@@ -119,14 +124,15 @@ I am a passionate programmer with a strong interest in game development. Current
   - Major language: Python
 - **Video games**
   - MMORPG (FFXIV)
+  - League of Legends
   - Indie games on steam & itch.io
-  - Sadly due to motion sickness I cannot play most of 3D games and some 2D games(so weird!).
+  - Sadly due to motion sickness I cannot play most of 3D games and some 2D games (so weird!)
 - **Game development**
   - Seen [my itch page](https://allen-sstl.itch.io/)
-- **Cooking:** without baking
+- **Cooking**
 - **Musicals & Music**
-  - My favorite lyric from <Mozart! das Musical>: *"Wie wird man seinen Schatten los?"*
-- **Writing:** fanfictions
+- **Writing**
+- **Painting**
   
 ### Contacts
 
