@@ -8,7 +8,7 @@ layout: default
 - **Preferred First Name: Allen**
 - Pronoun: *they/them* or *she/her*
 
-I am a passionate programmer with a Master’s degree in Electrical and Information Engineering, specializing in Machine Learning, from Leibniz University Hannover. I have a strong background in programming and machine learning, and recently completed my Master’s thesis on DNA methylation-based cancer classification (see [Highlighted Projects](###Highlighted-Projects) for details).
+I am a passionate programmer with a Master’s degree in Electrical and Information Engineering, specializing in Machine Learning, from Leibniz University Hannover. I have a strong background in programming and machine learning, and recently completed my Master’s thesis on DNA methylation-based cancer classification (see [Highlighted Projects](#highlighted-projects) for details).
 
 **I am currently seeking career opportunities in software development and AI, as well as PhD positions in Game AI or Bioinformatics.**
 
