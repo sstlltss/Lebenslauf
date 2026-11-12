@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# A Few Things You Might Want to Know About >Allen<
+<h1 style="text-align: center">A Few Things You Might Want to Know About >Allen<</h1>
 
 ### About Me
 - Name: Yuwei Wu
