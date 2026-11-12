@@ -8,9 +8,9 @@ layout: default
 - **Preferred First Name: Allen**
 - Pronoun: *they/them* or *she/her*
 
-I am a passionate programmer with a Master’s degree in Electrical and Information Engineering, specializing in Machine Learning, from Leibniz University Hannover. I have a strong background in programming and machine learning, and recently completed my Master’s thesis on DNA methylation-based cancer classification (see **Highlighted Projects** for details).
+I am a passionate programmer with a Master’s degree in Electrical and Information Engineering, specializing in Machine Learning, from Leibniz University Hannover. I have a strong background in programming and machine learning, and recently completed my Master’s thesis on DNA methylation-based cancer classification (see [Highlighted Projects](###Highlighted-Projects) for details).
 
-I am currently seeking career opportunities in software development and AI, as well as PhD positions in Game AI or Bioinformatics.
+**I am currently seeking career opportunities in software development and AI, as well as PhD positions in Game AI or Bioinformatics.**
 
 ### Skills
 
@@ -32,7 +32,7 @@ I am currently seeking career opportunities in software development and AI, as w
   - Hannover, Lower Saxony, Germany
   - 2023 - 2026
   - Specialization: Machine Learning
-  - Master's Thesis: Tumor Deconvolution Using Methylation Data(see **Highlighted Projects** for details)
+  - Master's Thesis: Tumor Deconvolution Using Methylation Data(see [Highlighted Projects](###Highlighted-Projects) for details)
   - Master's Thesis Grade: 1.3 (German grading scale)
   - Final Grade: 2.1 (German grading scale)
 - **Bachelor of Science** in *Measurement and Control technology and Sensors*
