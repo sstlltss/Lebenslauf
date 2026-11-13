@@ -34,6 +34,7 @@ I am a passionate programmer with a Master’s degree in Electrical and Informat
   - Specialization: Machine Learning
   - Final Grade: 2.1 (German grading scale)
   - Master's Thesis: Tumor Deconvolution Using Methylation Data(see [Highlighted Projects](#vr-store-associate) for details)
+  
 #### **Bachelor of Science** in *Measurement And Control Technology And Sensors*
   - Beijing Jiaotong University
   - Beijing, China
