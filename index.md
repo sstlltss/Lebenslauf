@@ -34,7 +34,7 @@ I am a passionate programmer with a Master’s degree in Electrical and Informat
   - Specialization: Machine Learning
   - Final Grade: 2.1 (German grading scale)
   - Master's Thesis: Tumor Deconvolution Using Methylation Data(see [Highlighted Projects](#vr-store-associate) for details)
-  
+
 #### **Bachelor of Science** in *Measurement And Control Technology And Sensors*
   - Beijing Jiaotong University
   - Beijing, China
@@ -110,8 +110,8 @@ I am a passionate programmer with a Master’s degree in Electrical and Informat
 - **Video games**
   - MMORPG (FFXIV)
   - League of Legends
-  - Indie games on steam & itch.io
-  - Sadly due to motion sickness I cannot play most of 3D games and some 2D games (so weird!)
+  - Indie games on Steam & itch.io
+
 - **Game development**
   - See [my itch page](https://allen-sstl.itch.io/)
 - **Cooking**
